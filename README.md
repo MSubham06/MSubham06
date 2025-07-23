@@ -5,7 +5,7 @@
 📝 Hackathons : 🏆 Won NASA Space Apps 2024 & ⏳ Google Agentic AI 2025. <br>
 👨‍💻 Projects : All of my projects are available on my GitHub. <br>
 🌱 Currently Learning : DSA in Java and Full Stack Web Development. <br>
-⚡ Fun fact : I'm a freelancer Graphic designer and Video Editor. <br><br>
+⚡ Fun fact : I'm a freelancer Graphic designer and Video Editor too. <br><br>
 🤝 Looking for Collaboration opportunities to build and learn together in a team environment. <br>
 💬 Let’s Connect: Join me on Discord to discuss, code, learn, edit, and find like-minded people. <br>
 🌐 Discord: [Join Me here!](https://discord.gg/S2ESFTUd) <br>
