@@ -1,15 +1,15 @@
 ## Hi Developer's 👋
 
-# 💫 About Me:
-🔭 Currently Working On:<br>Ticksy – A Minimalist Timer & Stopwatch Companion
-🏆 Hackathons: NASA Space Apps 2024⏳ Google Agentic AI 2025 
-🌱 Currently Learning: DSA in Java and Full Stack Web Development
-👯 Looking for Collaboration opportunities to build and learn together in a team environment
-👨‍💻 Projects: All of my projects are available on my GitHub 
-⚡ Fun fact: I'm a freelancer Graphic designer and Video Editor
-💬 Let’s Connect:<br>Join me on Discord to discuss, code, learn, edit, and find like-minded people
-Discord: https://discord.gg/S2ESFTUd
-📫 Reach Me At:<br>msubham246@gmail.com
+# 💫 About Me: 
+🔭 Currently Working On:Ticksy - A Minimalist Timer & Stopwatch Companion<br>
+🏆 Hackathons: NASA Space Apps 2024⏳ Google Agentic AI 2025 <br>
+🌱 Currently Learning: DSA in Java and Full Stack Web Development <br>
+👯 Looking for Collaboration opportunities to build and learn together in a team environment <br>
+👨‍💻 Projects: All of my projects are available on my GitHub <br>
+⚡ Fun fact: I'm a freelancer Graphic designer and Video Editor <br><br>
+💬 Let’s Connect:<br>Join me on Discord to discuss, code, learn, edit, and find like-minded people <br>
+Discord: https://discord.gg/S2ESFTUd <br>
+📫 Reach Me At:<br>msubham246@gmail.com<br>
 
 
 ## 🌐 Socials:
