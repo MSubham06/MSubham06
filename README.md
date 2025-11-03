@@ -7,7 +7,7 @@
 
 
 # 💫 About Me : 
-🔭 Currently Working On : Ticksy - A Minimalist Timer & Stopwatch Companion. <br>
+🔭 Currently Working On : Sigma Landing Page. <br>
 📝 Hackathons : 🏆 Won NASA Space Apps 2024 & ⏳ Google Agentic AI 2025. <br>
 🌱 Currently Learning : DSA in Java and Full Stack Web Development. <br>
 ⚡ Fun fact : I'm a freelancer Graphic designer and Video Editor too. <br>
