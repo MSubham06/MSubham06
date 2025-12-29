@@ -25,9 +25,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MSubham06&theme=dark&hide_border=false)
 
 
-### 👩‍💻 Language Used in my GitHub Status :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSubham06&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MSubham06&color=blueviolet&style=flat-square" alt="Profile views" />
