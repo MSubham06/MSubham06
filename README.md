@@ -8,8 +8,8 @@
 
 # 💫 About Me : 
 🔭 Currently : Intern at ISTRAC ( ISRO ) <br>
-📝 Hackathons : 🏆 Won NASA Space Apps 2024 & ⏳ Google Agentic AI 2025. <br>
-🌱 Currently Learning : DSA in Java and Full Stack Web Development. <br>
+📝 Hackathons : 🏆 Won NASA Space Apps 2024 & ⏳ Google Agentic AI 2025, NASA Space Apps 2025<br>
+🌱 Currently Learning : Java Full Stack Web Development. <br>
 ⚡ Fun fact : I'm a freelancer Graphic designer and Video Editor too. <br>
 👨‍💻 Projects : All of my projects are available on my GitHub. <br><br>
 🤝 Looking for Collaboration opportunities to build and learn together in a team environment. <br>
