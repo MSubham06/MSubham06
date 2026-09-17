@@ -50,16 +50,7 @@ contact: msubham246@gmail.com
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MSubham06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD34FE&text_color=C9D1D9&ring_color=BD34FE&count_private=true" alt="GitHub Stats"/>
-<img height="165em" src="https://streak-stats.demolab.com?user=MSubham06&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=00F5FF&fire=BD34FE&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSubham06&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-</div>
 
 <details>
 <summary>🏆 GitHub Trophies</summary>
