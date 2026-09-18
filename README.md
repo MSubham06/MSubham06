@@ -78,14 +78,7 @@ contact: msubham246@gmail.com
 
 <br/>
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/msubham/)
-[![Twitter](https://img.shields.io/badge/Twitter-0A0A0A?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/irlsubhhh)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/irl.subhhh)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=D14836)](mailto:msubham246@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=100&section=footer" width="100%"/>
 
