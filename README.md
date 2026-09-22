@@ -50,9 +50,6 @@ contact: msubham246@gmail.com
 
 <br/>
 
-
-
-<details>
 <br/>
 
 <div align="center">
