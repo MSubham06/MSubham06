@@ -53,7 +53,6 @@ contact: msubham246@gmail.com
 
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
 <br/>
 
 <div align="center">
